@@ -12,7 +12,7 @@ using UnityEngine;
 using System.Collections;
 #endregion
 
-namespace MoonPincho
+namespace MoonPincho.Shake
 {
     /// <summary>
     /// <para>Efecto Shake(Sacudida) de la camara</para>
